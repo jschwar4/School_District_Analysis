@@ -7,11 +7,8 @@ Critically, the test scores from the 9th grade class at Thomas High School have 
 2. There is a bulleted list that addresses how each of the seven school district metrics was affected by the changes in the data (10 pt).
 3. 
 Before:
-
 <img width="1136" alt="District_summary_before" src="https://user-images.githubusercontent.com/90073490/137670106-5e1751d3-9686-4369-ab34-9e57ba352f88.png">
-After:
-
-<img width="1136" alt="District_summary_after" src="https://user-images.githubusercontent.com/90073490/137670869-8cad7458-dc79-4c46-925f-4db3430e658d.png"
+After:![District summary after copy](https://user-images.githubusercontent.com/90073490/137671511-7c46d4f9-d873-4261-9ead-bd22331848e5.png)
 
 •	How is the district summary affected?
 
@@ -27,7 +24,7 @@ o	Before:
 <img width="1114" alt="Summary_before" src="https://user-images.githubusercontent.com/90073490/137670206-341f377e-96ee-4b3b-a6c9-90cf70f69578.png">
 
 o	After:
-<img width="1125" alt="Summary_after" src="https://user-images.githubusercontent.com/90073490/137670226-2ae4c09c-af71-4bce-8111-1125e274ff24.png">
+
 
 o	Removal of the scores did not alter the results for other schools, although it did lead to a drop in Thomas High School’s average scores and rates of passage, with the exception of the average reading score. 
 
@@ -40,17 +37,21 @@ How does replacing the ninth-grade scores affect the following:
 o	Math scores:
 
 	Before:
+
 <img width="513" alt="math_scores_by_grade_before" src="https://user-images.githubusercontent.com/90073490/137670364-7bfa651a-5ccd-4bd9-b3c7-7be5fa6843c7.png">
 
 	After:
+
 <img width="434" alt="math_scores_by_grade_after" src="https://user-images.githubusercontent.com/90073490/137670389-ee096715-833a-4ba8-b727-9b647e6f5ead.png">
 
 o	Reading scores:
 
 	Before:
+
 <img width="464" alt="reading_scores_by_grade_before" src="https://user-images.githubusercontent.com/90073490/137670422-c2694b14-526c-4529-9bdb-ecf18b5bf46c.png">
 
 	After:
+
 <img width="471" alt="reading_scores_by_grade_after" src="https://user-images.githubusercontent.com/90073490/137670435-5d77c97a-826d-4eb4-8317-edb66da19043.png">
 
 o	As can be seen from the above screenshots, the Thomas High School 9th grade scores are the only ones affected by their removal. The scores for each THS 9th grader were replaced with NaN without interfering with any other student scores.
